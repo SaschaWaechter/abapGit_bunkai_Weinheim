@@ -10,4 +10,5 @@ cl_demo_output=>display_html(
             |Hello **abapGit bunkai**!\n\n|
          && |Hello Weinheim!|
          && |Hello Karlsruhe!|
+         && |Hello Freiburg!|
          && |Hello World!| ) ).
